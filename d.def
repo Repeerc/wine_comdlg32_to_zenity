@@ -1,0 +1,7 @@
+LIBRARY comdlg_hook
+EXPORTS
+    GetOpenFileNameW
+    GetOpenFileNameA
+    GetSaveFileNameW
+    GetSaveFileNameA
+    
